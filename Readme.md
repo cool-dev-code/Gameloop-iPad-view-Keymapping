@@ -15,11 +15,6 @@
 - PUBG Mobile `2.5`
 - Gameloop `4.1.127.90` (32 bit version)
 
-## Download Link here => [Releases](https://github.com/cool-dev-code/Gameloop-Pro-Keymapping/releases)
-
-> **Note**
-> Please verify version of `PUBG Mobile`and `Gameloop` before using.
-
 ## Default Keymapping Fixes:
 
 - Granade
@@ -100,6 +95,32 @@ J 				Auto Jump
 NUM 9				Map (Open/Close)
 .				Move map to Player's Location
 ```
+
+## Attention ⚠️
+
+> **Note**
+> Please verify version of `PUBG Mobile`and `Gameloop` before using.
+## How to use *(Download Method)*:
+
+- Download Latest release from [Releases](https://github.com/cool-dev-code/Gameloop-Pro-Keymapping/releases)
+- Close Gameloop if running.
+- Open `File Explorer` and Paste this in address bar: 
+```js
+C:\Users\%USERPROFILE%\AppData\Roaming\AndroidTb
+```
+- Delete `TVM_100.xml` and Replace with the downloaded file and Enjoy.
+
+## How to use *(Manual Method:)*
+
+- Close Gameloop if running.
+- Open `File Explorer` and Paste this in address bar: 
+```js
+C:\Users\%USERPROFILE%\AppData\Roaming\AndroidTb
+```
+- Open `TVM_100.xml` with Notepad
+- Select all text and Replace with this =>
+- Now save this file and Enjoy.
+
 ---
 ## Contact Me
 Join me on my **Discord server** ❤️
