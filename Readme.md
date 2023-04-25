@@ -118,7 +118,7 @@ C:\Users\%USERPROFILE%\AppData\Roaming\AndroidTb
 C:\Users\%USERPROFILE%\AppData\Roaming\AndroidTb
 ```
 - Open `TVM_100.xml` with Notepad
-- Select all text and Replace with this =>
+- Select all text and Replace with this [text](https://github.com/cool-dev-code/Gameloop-Pro-Keymapping/blob/main/TVM_100.xml)
 - Now save this file and Enjoy.
 
 ---
