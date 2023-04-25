@@ -91,7 +91,7 @@ NUM 9				Close Setting
 NUM 9				Close Shop
 	
 =============== Plane ==========================
-J 					Auto Jump
+J 				Auto Jump
 
 ==================== Map ===========================
 
