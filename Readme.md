@@ -15,7 +15,7 @@
 - PUBG Mobile `2.5`
 - Gameloop `4.1.127.90` (32 bit version)
 
-## Download Link here => [Releases](https://github.com/aiko-chan-ai/DiscordBotClient/releases)
+## Download Link here => [Releases](https://github.com/cool-dev-code/Gameloop-Pro-Keymapping/releases)
 
 > **Note**
 > Please verify version of `PUBG Mobile`and `Gameloop` before using.
