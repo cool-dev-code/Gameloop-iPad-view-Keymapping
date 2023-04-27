@@ -1,57 +1,5 @@
-<Item ApkName="com.android.browser" 备注="浏览器">
-<StartInfo StartTimes="7"/>
-<LastMode ModeID="1" EnableTips="0" EnableGameKeyDT="0" TipsTransparent="0.500000" Lightness="1.000000" EnableSwitchViewLockMethod="0"/>
-<VersionInfo Version="1"/>
-<KeyMapMode ModeID="1" Name="普通模式"/>
-</Item>
-<Item ApkName="com.android.documentsui" 备注="">
-<StartInfo StartTimes="3"/>
-<LastMode ModeID="0" EnableTips="0" EnableGameKeyDT="0" TipsTransparent="0.500000" Lightness="1.000000" EnableSwitchViewLockMethod="0"/>
-</Item>
-<Item ApkName="com.android.launcherex" 备注="">
-<StartInfo StartTimes="334"/>
-<LastMode ModeID="0" EnableTips="0" EnableGameKeyDT="0" TipsTransparent="0.500000" Lightness="1.000000" EnableSwitchViewLockMethod="0"/>
-</Item>
-<Item ApkName="com.android.packageinstaller" 备注="">
-<StartInfo StartTimes="7"/>
-<LastMode ModeID="0" EnableTips="0" EnableGameKeyDT="0" TipsTransparent="0.500000" Lightness="1.000000" EnableSwitchViewLockMethod="0"/>
-</Item>
-<Item ApkName="com.android.providers.downloads.ui" 备注="">
-<StartInfo StartTimes="1"/>
-<LastMode ModeID="0" EnableTips="0" EnableGameKeyDT="0" TipsTransparent="0.500000" Lightness="1.000000" EnableSwitchViewLockMethod="0"/>
-</Item>
-<Item ApkName="com.android.providers.media" 备注="">
-<StartInfo StartTimes="2"/>
-<LastMode ModeID="0" EnableTips="0" EnableGameKeyDT="0" TipsTransparent="0.500000" Lightness="1.000000" EnableSwitchViewLockMethod="0"/>
-</Item>
-<Item ApkName="com.android.settings" 备注="设置">
-<StartInfo StartTimes="85"/>
-<LastMode ModeID="1" EnableTips="0" EnableGameKeyDT="0" TipsTransparent="0.500000" Lightness="1.000000" EnableSwitchViewLockMethod="0"/>
-<VersionInfo Version="1"/>
-<KeyMapMode ModeID="1" Name="普通模式"/>
-</Item>
-<Item ApkName="com.android.systemui" 备注="">
-<StartInfo StartTimes="1"/>
-<LastMode ModeID="0" EnableTips="0" EnableGameKeyDT="0" TipsTransparent="0.500000" Lightness="1.000000" EnableSwitchViewLockMethod="0"/>
-</Item>
-<Item ApkName="com.android.vending" 备注="">
-<StartInfo StartTimes="19"/>
-<LastMode ModeID="0" EnableTips="0" EnableGameKeyDT="0" TipsTransparent="0.500000" Lightness="1.000000" EnableSwitchViewLockMethod="0"/>
-</Item>
-<Item ApkName="com.facebook.katana" 备注="">
-<StartInfo StartTimes="188"/>
-<LastMode ModeID="0" EnableTips="0" EnableGameKeyDT="0" TipsTransparent="0.500000" Lightness="1.000000" EnableSwitchViewLockMethod="0"/>
-</Item>
-<Item ApkName="com.google.android.gms" 备注="">
-<StartInfo StartTimes="24"/>
-<LastMode ModeID="0" EnableTips="0" EnableGameKeyDT="0" TipsTransparent="0.500000" Lightness="1.000000" EnableSwitchViewLockMethod="0"/>
-</Item>
-<Item ApkName="com.google.android.play.games" 备注="">
-<StartInfo StartTimes="20"/>
-<LastMode ModeID="0" EnableTips="0" EnableGameKeyDT="0" TipsTransparent="0.500000" Lightness="1.000000" EnableSwitchViewLockMethod="0"/>
-</Item>
 <Item ApkName="com.tencent.ig" 备注="绝地求生——刺激战场国际版" VersionCode="17000">
-<StartInfo StartTimes="726"/>
+<StartInfo StartTimes="18"/>
 <LastMode ModeID="2" EnableTips="0" EnableGameKeyDT="1" TipsTransparent="0.500000" Lightness="1.000000" EnableSwitchViewLockMethod="0" ExitFullScreenKey="122"/>
 <VersionInfo Version="65" ReqFeatureVer="7" CurFeatureVer="8"/>
 <Switch Name="AdjustMultiples" TextureId="81"/>
@@ -191,7 +139,7 @@
 <KeyMappingEx ItemName="Move with Mouse" Point_X="0.792188" Point_Y="0.412500" Description="视角" MiniVisiable="false" MiniDisable="false" Type="RClick" Sensi_X="1.000000" Sensi_Y="1.000000"/>
 <KeyMappingEx ItemName="Alt" Point_X="0.776563" Point_Y="0.309722" Description="Free view" MiniVisiable="false" MiniDisable="false" NoDelete="1" SpecialFunc="1001" OpGuidClass="0" InUseDisableView="1" Type="KeyMove" Offset="230" Click_X="0.500000" Click_Y="0.550000" Click_Offset="0.450000" AsciiCode="18" Cancel_X="-0.911133" Cancel_Y="-0.277778" Click_Left="1" ReleaseNow="0" Center_X="0.000000" Center_Y="0.000000" StopMoving="0" NeedPressed="1" Center_XY_Disable="1"/>
 </KeyMapMode>
-<KeyMapMode ModeID="2" Name="Smart 720P" ShowTipsAlways="1">
+<KeyMapMode ModeID="2" Name="Shuja Plays" ShowTipsAlways="1" CurrModeEnableTips="1">
 <KeyMapping ItemName="Right Click" Point_X="0.963281" Point_Y="0.523611" Description="右键开镜" MiniVisiable="false" MiniDisable="false" ShowOnLockAsciiCode="192" AsciiCode="-2">
 <SwitchOperation Description="飞行" EnableSwitch="Fly1" DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.817969" Point_Y="0.822222"/>
 <SwitchOperation Description="瞄准" EnableSwitch="Sniper" DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.963281" Point_Y="0.523611" HideTips="1"/>
@@ -241,7 +189,6 @@
 <SwitchOperation Description="刹车" EnableSwitch="Whistle" DisableSwitch="XBtn|MapOpenFlag|InSetUp|DriveMode1Press|DriveMode1" Point_X="0.911719" Point_Y="0.541667"/>
 <SwitchOperation Description="刹车1（载具模式）" EnableSwitch="Whistle" DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.060000" Point_Y="0.662222" HideTips="1"/>
 </KeyMapping>
-<KeyMapping ItemName="End" Point_X="0.878125" Point_Y="0.050000" Description="字母键" MiniVisiable="true" MiniDisable="false" AutoCancel="0" AsciiCode="35"/>
 <KeyMapping ItemName="1" Point_X="0.425000" Point_Y="0.929167" Description="换1号武器" MiniVisiable="false" MiniDisable="false" AsciiCode="49">
 <SwitchOperation Description="表情(你好)" EnableSwitch="YouGood|EmojiPressed" DisableSwitch="MapOpenFlag|InSetUp" Point_X="0.570278" Point_Y="0.225260"/>
 <SwitchOperation Description="换1号武器" EnableSwitch="Jump" DisableSwitch="MapOpenFlag|InSetUp" Point_X="0.425000" Point_Y="0.929167" HideTips="1"/>
@@ -260,11 +207,12 @@
 <SwitchOperation Description="换3号武器" EnableSwitch="Climb" DisableSwitch="MapOpenFlag|InSetUp" Point_X="0.619531" Point_Y="0.843056" HideTips="1"/>
 <SwitchOperation Description="换3号武器" EnableSwitch="GetOutCar" DisableSwitch="MapOpenFlag|InSetUp" Point_X="0.619531" Point_Y="0.843056" HideTips="1"/>
 </KeyMapping>
-<KeyMapping ItemName="4" Point_X="0.682813" Point_Y="0.884722" Description="字母键划线" MiniVisiable="true" MiniDisable="false" AutoCancel="0" AsciiCode="52" KeyMouseSlideType="1" KeyMouseSlidePoints="(0.682813,0.947222,0)(0.682813,0.941667,16)(0.682813,0.937500,15)(0.682813,0.927778,16)(0.682813,0.915278,16)(0.682813,0.908333,15)(0.682813,0.895833,16)(0.682813,0.884722,16)"/>
-<KeyMapping ItemName="5" Point_X="0.700781" Point_Y="0.915278" Description="字母键划线" MiniVisiable="true" MiniDisable="false" AutoCancel="0" AsciiCode="53" KeyMouseSlideType="1" KeyMouseSlidePoints="(0.682031,0.955556,0)(0.682813,0.955556,46)(0.683594,0.950000,16)(0.686719,0.944444,16)(0.691406,0.934722,15)(0.696094,0.926389,16)(0.699219,0.919444,16)(0.700781,0.915278,15)(0.700781,0.915278,63)"/>
-<KeyMapping ItemName="6" Point_X="0.650781" Point_Y="0.904167" Description="字母键划线" MiniVisiable="true" MiniDisable="false" AutoCancel="0" AsciiCode="54" KeyMouseSlideType="1" KeyMouseSlidePoints="(0.674219,0.944444,0)(0.674219,0.943056,63)(0.672656,0.940278,16)(0.668750,0.933333,15)(0.664063,0.925000,16)(0.659375,0.916667,15)(0.656250,0.911111,16)(0.653906,0.908333,16)(0.651563,0.905556,15)(0.650781,0.904167,16)"/>
-<KeyMapping ItemName="7" Point_X="0.361719" Point_Y="0.923611" Description="字母键划线" MiniVisiable="true" MiniDisable="false" AutoCancel="0" AsciiCode="55" KeyMouseSlideType="1" KeyMouseSlidePoints="(0.321875,0.923611,0)(0.322656,0.923611,31)(0.326562,0.923611,15)(0.335156,0.923611,16)(0.346875,0.923611,16)(0.357031,0.923611,15)(0.361719,0.923611,16)"/>
-<KeyMapping ItemName="9" Point_X="0.273438" Point_Y="0.926389" Description="字母键划线" MiniVisiable="true" MiniDisable="false" AutoCancel="0" AsciiCode="57" KeyMouseSlideType="1" KeyMouseSlidePoints="(0.313281,0.925000,0)(0.313281,0.926389,47)(0.313281,0.926389,16)(0.309375,0.926389,16)(0.301563,0.926389,15)(0.292187,0.926389,16)(0.282813,0.926389,15)(0.275000,0.926389,16)(0.273438,0.926389,16)(0.273438,0.926389,15)(0.273438,0.926389,78)"/>
+<KeyMapping ItemName="4" Point_X="0.992969" Point_Y="0.988889" Description="字母键划线" MiniVisiable="true" MiniDisable="false" AutoCancel="0" AsciiCode="52" KeyMouseSlideType="1" KeyMouseSlidePoints="(0.692187,0.936111,0)(0.690625,0.870556,15)"/>
+<KeyMapping ItemName="5" Point_X="0.992969" Point_Y="0.988889" Description="字母键划线" MiniVisiable="true" MiniDisable="false" AutoCancel="0" AsciiCode="53" KeyMouseSlideType="1" KeyMouseSlidePoints="(0.692187,0.936111,0)(0.712500,0.905556,15)"/>
+<KeyMapping ItemName="6" Point_X="0.992969" Point_Y="0.988889" Description="字母键划线" MiniVisiable="true" MiniDisable="false" AutoCancel="0" AsciiCode="54" KeyMouseSlideType="1" KeyMouseSlidePoints="(0.692187,0.936111,0)(0.664063,0.908333,15)"/>
+<KeyMapping ItemName="7" Point_X="0.992969" Point_Y="0.988889" Description="字母键划线" MiniVisiable="true" MiniDisable="false" AutoCancel="0" AsciiCode="55" KeyMouseSlideType="1" KeyMouseSlidePoints="(0.307812,0.936111,0)(0.324219,0.936111,15)(0.344531,0.936111,15)"/>
+<KeyMapping ItemName="8" Point_X="0.992969" Point_Y="0.988889" Description="字母键划线" MiniVisiable="true" MiniDisable="false" AutoCancel="0" AsciiCode="56" KeyMouseSlideType="1" KeyMouseSlidePoints="(0.307812,0.936111,0)(0.308594,0.861111,15)"/>
+<KeyMapping ItemName="9" Point_X="0.992969" Point_Y="0.988889" Description="字母键划线" MiniVisiable="true" MiniDisable="false" AutoCancel="0" AsciiCode="57" KeyMouseSlideType="1" KeyMouseSlidePoints="(0.307812,0.936111,0)(0.278906,0.943056,15)"/>
 <KeyMapping ItemName="C" Point_X="0.846875" Point_Y="0.925000" Description="下蹲" MiniVisiable="false" MiniDisable="false" AsciiCode="67">
 <SwitchOperation Description="换位置" EnableSwitch="GetOutCar" DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.965625" Point_Y="0.918889"/>
 <SwitchOperation Description="下蹲" EnableSwitch="Squat" DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.846875" Point_Y="0.925000" HideTips="1"/>
@@ -351,7 +299,6 @@
 <SwitchOperation Description="捡物" EnableSwitch="Pickup" DisableSwitch="MapOpenFlag|InSetUp" Point_X="0.659375" Point_Y="0.547222"/>
 <SwitchOperation Description="救回" EnableSwitch="Help2" DisableSwitch="MapOpenFlag|InSetUp" Point_X="0.664714" Point_Y="0.674479" TexturePosition="Help2"/>
 </KeyMapping>
-<KeyMapping ItemName="J" Point_X="0.085938" Point_Y="0.426389" Description="字母键" MiniVisiable="true" MiniDisable="false" AutoCancel="0" AsciiCode="74"/>
 <KeyMapping ItemName="M" Point_X="0.974609" Point_Y="0.013889" Description="打开地图" MiniVisiable="false" MiniDisable="false" AsciiCode="77">
 <SwitchOperation Description="打开地图" EnableSwitch="SetUp" DisableSwitch="XBtn|InSetUp" Point_X="0.974609" Point_Y="0.013889"/>
 <SwitchOperation Description="关闭地图" EnableSwitch="MapOpenFlag" Point_X="0.974609" Point_Y="0.013889"/>
@@ -374,24 +321,11 @@
 <SwitchOperation Description="趴下" EnableSwitch="Fall" DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.942969" Point_Y="0.900000"/>
 <SwitchOperation Description="取消趴下" EnableSwitch="CancelFall" DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.942969" Point_Y="0.900000"/>
 </KeyMapping>
-<KeyMapping ItemName="N0" Point_X="0.502344" Point_Y="0.765278" Description="字母键" MiniVisiable="true" MiniDisable="false" AutoCancel="0" AsciiCode="96"/>
-<KeyMapping ItemName="N1" Point_X="0.055469" Point_Y="0.926389" Description="字母键" MiniVisiable="true" MiniDisable="false" AutoCancel="0" AsciiCode="97"/>
-<KeyMapping ItemName="N2" Point_X="0.903906" Point_Y="0.451389" Description="字母键划线" MiniVisiable="true" MiniDisable="false" AutoCancel="0" AsciiCode="98" KeyMouseSlideType="1" KeyMouseSlidePoints="(0.904687,0.327778,0)(0.904687,0.331944,32)(0.904687,0.334722,15)(0.904687,0.341667,16)(0.904687,0.355556,15)(0.903906,0.376389,16)(0.903906,0.398611,16)(0.903906,0.412500,15)(0.903906,0.434722,16)(0.903906,0.447222,16)(0.903906,0.451389,15)(0.903906,0.451389,0)"/>
-<KeyMapping ItemName="N3" Point_X="0.939063" Point_Y="0.452778" Description="字母键划线" MiniVisiable="true" MiniDisable="false" AutoCancel="0" AsciiCode="99" KeyMouseSlideType="1" KeyMouseSlidePoints="(0.906250,0.337500,0)(0.907031,0.341667,31)(0.907813,0.345833,16)(0.912500,0.362500,16)(0.917188,0.380556,15)(0.923438,0.401389,16)(0.930469,0.425000,15)(0.936719,0.444444,16)(0.939063,0.452778,0)"/>
-<KeyMapping ItemName="N4" Point_X="0.846875" Point_Y="0.333333" Description="字母键划线" MiniVisiable="true" MiniDisable="false" AutoCancel="0" AsciiCode="100" KeyMouseSlideType="1" KeyMouseSlidePoints="(0.900000,0.336111,0)(0.896875,0.333333,31)(0.892188,0.333333,16)(0.884375,0.333333,15)(0.875781,0.333333,16)(0.866406,0.333333,16)(0.855469,0.333333,15)(0.846875,0.333333,16)(0.846875,0.333333,0)"/>
-<KeyMapping ItemName="N5" Point_X="0.827344" Point_Y="0.377778" Description="字母键" MiniVisiable="true" MiniDisable="false" AutoCancel="0" AsciiCode="101"/>
-<KeyMapping ItemName="N6" Point_X="0.975781" Point_Y="0.320833" Description="字母键划线" MiniVisiable="true" MiniDisable="false" AutoCancel="0" AsciiCode="102" KeyMouseSlideType="1" KeyMouseSlidePoints="(0.907031,0.323611,0)(0.907031,0.322222,16)(0.907813,0.322222,15)(0.914844,0.322222,16)(0.928125,0.322222,16)(0.944531,0.322222,15)(0.953125,0.322222,16)(0.968750,0.322222,16)(0.975781,0.320833,15)(0.975781,0.320833,0)"/>
-<KeyMapping ItemName="N7" Point_X="0.858594" Point_Y="0.220833" Description="字母键划线" MiniVisiable="true" MiniDisable="false" AutoCancel="0" AsciiCode="103" KeyMouseSlideType="1" KeyMouseSlidePoints="(0.901563,0.323611,0)(0.900781,0.322222,31)(0.900781,0.322222,16)(0.899219,0.318056,16)(0.895312,0.309722,15)(0.890625,0.298611,16)(0.885156,0.283333,16)(0.876563,0.266667,15)(0.867969,0.250000,16)(0.863281,0.233333,15)(0.859375,0.223611,16)(0.858594,0.220833,0)"/>
-<KeyMapping ItemName="N8" Point_X="0.875000" Point_Y="0.204167" Description="字母键" MiniVisiable="true" MiniDisable="false" AutoCancel="0" AsciiCode="104"/>
-<KeyMapping ItemName="N9" Point_X="0.996875" Point_Y="0.065278" Description="字母键" MiniVisiable="true" MiniDisable="false" AutoCancel="0" AsciiCode="105"/>
-<KeyMapping ItemName="N*" Point_X="0.486719" Point_Y="0.369444" Description="字母键划线" MiniVisiable="true" MiniDisable="false" AutoCancel="0" AsciiCode="106" KeyMouseSlideType="1" KeyMouseSlidePoints="(0.547656,0.369444,0)(0.545312,0.369444,47)(0.542188,0.369444,15)(0.535156,0.369444,16)(0.523438,0.369444,16)(0.510938,0.369444,15)(0.498437,0.369444,16)(0.488281,0.369444,15)(0.486719,0.369444,16)(0.486719,0.369444,16)(0.486719,0.369444,15)"/>
-<KeyMapping ItemName="N+" Point_X="0.969531" Point_Y="0.218056" Description="字母键" MiniVisiable="true" MiniDisable="false" AutoCancel="0" AsciiCode="107"/>
-<KeyMapping ItemName="N-" Point_X="0.971094" Point_Y="0.770833" Description="字母键" MiniVisiable="true" MiniDisable="false" AutoCancel="0" AsciiCode="109"/>
-<KeyMapping ItemName="." Point_X="0.905469" Point_Y="0.947222" Description="字母键" MiniVisiable="true" MiniDisable="false" AutoCancel="0" AsciiCode="110"/>
 <KeyMapping ItemName="F4" Point_X="0.768750" Point_Y="0.030556" Description="表情" MiniVisiable="false" MiniDisable="false" AsciiCode="115">
 <SwitchOperation Description="表情" EnableSwitch="EmojiPressed" DisableSwitch="XBtn|MapOpenFlag|InSetUp" TexturePosition="EmojiPressed"/>
 <SwitchOperation Description="表情" EnableSwitch="Emoji" DisableSwitch="XBtn|MapOpenFlag|InSetUp" TexturePosition="Emoji"/>
 </KeyMapping>
+<KeyMapping ItemName=";" Point_X="0.992969" Point_Y="0.988889" Description="字母键" MiniVisiable="true" MiniDisable="false" AutoCancel="0" AsciiCode="186"/>
 <KeyMapping ItemName="=" Point_X="0.839844" Point_Y="0.268056" Description="加速跑" MiniVisiable="false" MiniDisable="false" AsciiCode="187">
 <SwitchOperation Description="表情=" EnableSwitch="YouGood|EmojiPressed" DisableSwitch="MapOpenFlag|InSetUp" Point_X="0.340410" Point_Y="0.210938"/>
 <SwitchOperation Description="加速跑" EnableSwitch="Run" DisableSwitch="XBtn|MapOpenFlag|InSetUp" TexturePosition="Run"/>
@@ -421,7 +355,13 @@
 <SwitchOperation Description="捡快递/空投" EnableSwitch="Pickup|SkyBoxFlag" DisableSwitch="MapOpenFlag" Point_X="0.644531" Point_Y="0.605556"/>
 <SwitchOperation Description="捡东西" EnableSwitch="Pickup" DisableSwitch="MapOpenFlag" Point_X="0.644531" Point_Y="0.495000"/>
 </KeyMappingEx>
-<KeyMappingEx ItemName="Zoom with Scroll Wheel" Point_X="0.666406" Point_Y="0.490278" Description="地图鼠标滚轮" MiniVisiable="false" MiniDisable="false" HideTipsAlways="1" Type="WheelZoom" Offset="0.050000" Speed="10.000000">
+<KeyMappingEx ItemName="Click with Scroll Wheel" Point_X="0.557617" Point_Y="0.929167" Description="滚轮切枪" MiniVisiable="false" MiniDisable="false" HideTipsAlways="1" Type="WheelClick" Click_X="0.425000" Click_Y="0.929167">
+<SwitchOperation Description="背包" EnableSwitch="Backpage" DisableSwitch="XBtn|MapOpenFlag|InSetUp|Pickup"/>
+<SwitchOperation Description="1级背包" EnableSwitch="Backpage1" DisableSwitch="XBtn|MapOpenFlag|InSetUp|Pickup|AdjustMultiples|AdjustMultiplesPressed"/>
+<SwitchOperation Description="2级背包" EnableSwitch="Backpage2" DisableSwitch="XBtn|MapOpenFlag|InSetUp|Pickup|AdjustMultiples|AdjustMultiplesPressed"/>
+<SwitchOperation Description="3级背包" EnableSwitch="Backpage3" DisableSwitch="XBtn|MapOpenFlag|InSetUp|Pickup|AdjustMultiples|AdjustMultiplesPressed"/>
+</KeyMappingEx>
+<KeyMappingEx ItemName="Zoom with Scroll Wheel" Point_X="0.682031" Point_Y="0.495833" Description="地图鼠标滚轮" MiniVisiable="false" MiniDisable="false" HideTipsAlways="1" Type="WheelZoom" Offset="0.050000" Speed="10.000000">
 <SwitchOperation Description="地图" EnableSwitch="MapOpenFlag"/>
 </KeyMappingEx>
 <KeyMappingEx ItemName="Drive" Point_X="0.500000" Point_Y="0.500000" Description="开车" MiniVisiable="false" MiniDisable="false" HideTipsAlways="1" Type="Drive">
@@ -450,22 +390,19 @@
 <Point Point_X="0.803906" Point_Y="0.161111" Delay="300" IsMutex="0" MutexVal="0" IsRepeat="0"/>
 <SwitchOperation Description="快速说话(第一句)" EnableSwitch="SetUp" DisableSwitch="XBtn|MapOpenFlag|InSetUp"/>
 </KeyMappingEx>
-<KeyMappingEx ItemName="F3" Point_X="0.867969" Point_Y="0.440278" Description="快速说话" MiniVisiable="false" MiniDisable="false" HideTipsAlways="1" InUseDisableView="1" Type="MultiPoint" AsciiCode="114">
+<KeyMappingEx ItemName="F3" Point_X="0.918750" Point_Y="0.338889" Description="快速说话" MiniVisiable="false" MiniDisable="false" HideTipsAlways="1" InUseDisableView="1" Type="MultiPoint" AsciiCode="114">
 <Point Point_X="0.803906" Point_Y="0.255556" Delay="300" IsMutex="0" MutexVal="0" IsRepeat="0"/>
 <SwitchOperation Description="快速说话(第二句)" EnableSwitch="SetUp" DisableSwitch="XBtn|MapOpenFlag|InSetUp"/>
 </KeyMappingEx>
-<KeyMappingEx ItemName="0" Point_X="0.317000" Point_Y="0.769444" Description="药" MiniVisiable="false" MiniDisable="false" Type="FoldClick2" AsciiCode="48">
-<SwitchOperation Description="饮料" EnablePositionSwitch="Medicine4:0.224218,0.202847,0.351562,1.000000" DisableSwitch="XBtn|MapOpenFlag|InSetUp|YouGood" NotifyController="2" TexturePosition="Medicine4"/>
-<SwitchOperation Description="小笼包" EnablePositionSwitch="Buns:0.224218,0.202847,0.351562,1.000000" DisableSwitch="XBtn|MapOpenFlag|InSetUp|YouGood" NotifyController="2" TexturePosition="Buns"/>
-<SwitchOperation Description="药" EnablePositionSwitch="Medicine5:0.224218,0.202847,0.351562,1.000000" DisableSwitch="XBtn|MapOpenFlag|InSetUp|YouGood" NotifyController="2" TexturePosition="Medicine5"/>
-<SwitchOperation Description="肾上腺素" EnablePositionSwitch="Medicine6:0.224218,0.202847,0.351562,1.000000" DisableSwitch="XBtn|MapOpenFlag|InSetUp|YouGood" NotifyController="2" TexturePosition="Medicine6"/>
-<SwitchOperation Description="GrenadeArrowUp" EnablePositionSwitch="GrenadeArrowUp:0.284375,0.843750,0.351562,0.916667" DisableSwitch="XBtn|MapOpenFlag|InSetUp|YouGood" HideTips="1" TexturePosition="GrenadeArrowUp"/>
-<SwitchOperation Description="GrenadeArrowUp" EnablePositionSwitch="GrenadeArrowUp:0.284375,0.202847,0.351562,0.843750" DisableSwitch="XBtn|MapOpenFlag|InSetUp|YouGood" HideTips="1" NotifyController="1" TexturePosition="GrenadeArrowUp"/>
-</KeyMappingEx>
-<KeyMappingEx ItemName="8" Point_X="0.317000" Point_Y="0.883333" Description="急救包" MiniVisiable="false" MiniDisable="false" Type="FoldClick2" AsciiCode="56">
-<SwitchOperation Description="急救包" EnablePositionSwitch="Medicine2:0.224218,0.202847,0.351562,1.000000" DisableSwitch="XBtn|MapOpenFlag|InSetUp|YouGood" NotifyController="2" TexturePosition="Medicine2"/>
-<SwitchOperation Description="GrenadeArrowUp" EnablePositionSwitch="GrenadeArrowUp:0.284375,0.843750,0.351562,0.916667" DisableSwitch="XBtn|MapOpenFlag|InSetUp|YouGood" HideTips="1" TexturePosition="GrenadeArrowUp"/>
-<SwitchOperation Description="GrenadeArrowUp" EnablePositionSwitch="GrenadeArrowUp:0.284375,0.202847,0.351562,0.843750" DisableSwitch="XBtn|MapOpenFlag|InSetUp|YouGood" HideTips="1" NotifyController="1" TexturePosition="GrenadeArrowUp"/>
+<KeyMappingEx ItemName="X" Point_X="0.686719" Point_Y="0.883333" Description="切换冷兵器" MiniVisiable="false" MiniDisable="false" Type="FoldClick2" AsciiCode="88">
+<SwitchOperation Description="MeleeWeapon1" EnableSwitch="MeleeWeapon1" EnablePositionSwitch="MeleeWeapon1:0.623047,0.202847,0.864583,1.000000" DisableSwitch="XBtn|MapOpenFlag|InSetUp|YouGood" NotifyController="1" TexturePosition="MeleeWeapon1"/>
+<SwitchOperation Description="MeleeWeapon2" EnableSwitch="MeleeWeapon2" EnablePositionSwitch="MeleeWeapon2:0.623047,0.202847,0.864583,1.000000" DisableSwitch="XBtn|MapOpenFlag|InSetUp|YouGood" NotifyController="1" TexturePosition="MeleeWeapon2"/>
+<SwitchOperation Description="MeleeWeapon3" EnableSwitch="MeleeWeapon3" EnablePositionSwitch="MeleeWeapon3:0.623047,0.202847,0.864583,1.000000" DisableSwitch="XBtn|MapOpenFlag|InSetUp|YouGood" NotifyController="1" TexturePosition="MeleeWeapon3"/>
+<SwitchOperation Description="MeleeWeapon4" EnableSwitch="MeleeWeapon4" EnablePositionSwitch="MeleeWeapon4:0.623047,0.202847,0.864583,1.000000" DisableSwitch="XBtn|MapOpenFlag|InSetUp|YouGood" NotifyController="1" TexturePosition="MeleeWeapon4"/>
+<SwitchOperation Description="MeleeWeapon5" EnableSwitch="MeleeWeapon5" EnablePositionSwitch="MeleeWeapon5:0.623047,0.202847,0.864583,1.000000" DisableSwitch="XBtn|MapOpenFlag|InSetUp|YouGood" NotifyController="1" TexturePosition="MeleeWeapon5"/>
+<SwitchOperation Description="Boom" EnableSwitch="Boom" EnablePositionSwitch="Boom:0.623047,0.202847,0.864583,1.000000" DisableSwitch="XBtn|MapOpenFlag|InSetUp|YouGood" NotifyController="1" TexturePosition="Boom"/>
+<SwitchOperation Description="GrenadeArrowUp" EnableSwitch="GrenadeArrowUp" EnablePositionSwitch="GrenadeArrowUp:0.623047,0.843750,0.864583,0.916667" DisableSwitch="XBtn|MapOpenFlag|InSetUp|YouGood" HideTips="1" TexturePosition="GrenadeArrowUp"/>
+<SwitchOperation Description="GrenadeArrowUp" EnableSwitch="GrenadeArrowUp" EnablePositionSwitch="GrenadeArrowUp:0.623047,0.202847,0.864583,0.843750" DisableSwitch="XBtn|MapOpenFlag|InSetUp|YouGood" HideTips="1" NotifyController="1" TexturePosition="GrenadeArrowUp"/>
 </KeyMappingEx>
 <KeyMappingEx ItemName="Zoom with Scroll Wheel" Point_X="0.735938" Point_Y="0.122222" Description="8倍镜鼠标滚轮" MiniVisiable="false" MiniDisable="false" HideTipsAlways="1" Type="WheelPointZoom" Speed="0.031250">
 <SwitchOperation Description="调焦按钮" EnableSwitch="AdjustMultiples" NotifyController="1" TexturePosition="AdjustMultiples"/>
