@@ -11,7 +11,7 @@
 ---
 
 ## Version Update:
-> Last Update Date : 25-Apr-23
+> Last Update Date : 27-Apr-23
 - PUBG Mobile `2.5`
 - Gameloop `4.1.127.90` (32 bit version)
 
