@@ -11,9 +11,9 @@
 ---
 
 ## Version Update:
-> Last Update Date : 27-Apr-23
+> Last Update Date : 10-May-23
 - PUBG Mobile `2.5`
-- Gameloop `4.1.127.90` (32 bit version)
+- Gameloop `4.1.128.90` (32 bit version)
 
 ## Default Keymapping Fixes:
 
@@ -21,9 +21,12 @@
 - Smoke
 - Molotov
 - Medkit
+- First Aid
 - Bandage
+- Energy Drink
+- Painkiller
 
-## Keymapping Added:
+## Keymapping Added (not yet working):
 
 - Cancel Revive / Medkit / First-Aid
 - Auto Run
@@ -55,7 +58,8 @@ Mouse side down		        Universal Mark
 7				Medkit
 8				First Aid
 9				Bandage
-0				Painkiller/Energy Drink (1st Painkiller then Energy drink)
+0				Energy Drink
+-				Painkiller
 
 NUM 0				Cancel Revive/Medkit/First-Aid
 NUM 1				Backpack (Open/Close)
@@ -100,7 +104,7 @@ NUM 9				Map (Open/Close)
 
 > **Note**
 > Please verify version of `PUBG Mobile`and `Gameloop` before using.
-## How to use *(Download Method)*:
+## How to use ==> *(Download Method)*:
 
 - Download Latest release from [Releases](https://github.com/cool-dev-code/Gameloop-Pro-Keymapping/releases)
 - Close Gameloop if running.
@@ -108,9 +112,15 @@ NUM 9				Map (Open/Close)
 ```js
 C:\Users\%USERPROFILE%\AppData\Roaming\AndroidTb
 ```
-- Delete `TVM_100.xml` and Replace with the downloaded file and Enjoy.
+- Delete `TVM_100.xml` and Replace with the downloaded file.
+- Now Open game and apply this Layout Code 
+```js
+7210-2210-1194-9077-386
+```
+- You are Done. Enjoy :)
 
-## How to use *(Manual Method:)*
+
+## How to use ==> *(Manual Method):*
 
 - Close Gameloop if running.
 - Open `File Explorer` and Paste this in address bar: 
@@ -119,7 +129,12 @@ C:\Users\%USERPROFILE%\AppData\Roaming\AndroidTb
 ```
 - Open `TVM_100.xml` with Notepad
 - Select all text and Replace with this [text](https://github.com/cool-dev-code/Gameloop-Pro-Keymapping/blob/main/TVM_100.xml)
-- Now save this file and Enjoy.
+- Now save this file
+- Open game and apply this Layout Code 
+```js
+7210-2210-1194-9077-386
+```
+- You are Done. Enjoy :)
 
 ---
 ## Contact Me
