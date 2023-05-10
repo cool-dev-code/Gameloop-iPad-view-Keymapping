@@ -52,17 +52,17 @@
 
 End				Report
 Mouse side down		        Universal Mark
-4					Granade
-5					Smoke
-6					Molotov
-7					Medkit
-8					First Aid
-9					Bandage
-0					Energy Drink
--					Painkiller
+4				Granade
+5				Smoke
+6				Molotov
+7				Medkit
+8				First Aid
+9				Bandage
+0				Energy Drink
+-				Painkiller
 
-Mouse Button 1 		Gear Front Skill
-Mouse Button 2		Webshooter
+Mouse Button 1 			Gear Front Skill
+Mouse Button 2			Webshooter
 
 NUM 0				Cancel Revive/Medkit/First-Aid
 NUM 1				Backpack (Open/Close)
