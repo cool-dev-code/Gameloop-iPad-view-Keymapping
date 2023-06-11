@@ -6,13 +6,13 @@
 > **Note**
 > This keymapping file is only for (SD 720P default definition)
 - SD 720P (Supported)✅
-- HD 1080P (Coming Soon)❌
-
+- HD 1080P (Supported)✅
+- FHD 2K (Supported)✅
 ---
 
 ## Version Update:
-> Last Update Date : 10-May-23
-- PUBG Mobile `2.5`
+> Last Update Date : 11-June-23
+- PUBG Mobile `2.6`
 - Gameloop `4.1.128.90` (32 bit version)
 
 ## Default Keymapping Fixes:
