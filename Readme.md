@@ -63,5 +63,5 @@ C:\Users\%USERPROFILE%\AppData\Roaming\AndroidTb
 Join me on my **Discord server** ❤️
 > https://discord.gg/9mjwNGJHWH
 ---
-## FAQ
+## FAQ (Frequently Asked Questions)
 Ask me on Discord 👆
