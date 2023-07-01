@@ -9,17 +9,17 @@
 - FHD 2K (Supported)✅
 ---
 
-## Version Update:
+## 🆕 Version Update:
 > Last Update Date : 01-July-23
 - PUBG Mobile `2.6`
 - Gameloop `4.1.128.90` (32 bit version)
 
-## Change logs:
+## 📜 Change logs:
 
 - Event (Dinoground Keymapping) Added.
 - Keymapping fixed.
 
-## Not yet working:
+## ❌ Not yet working:
 
 - Zoom Scope with middle mouse button
 - Mouse Scroll when Picking up items.
@@ -28,12 +28,12 @@
 - Mouse Scroll when Picking up items (from Box / Loot crate or Airdrop 6 blocks)
 ---
 
-## Attention ⚠️
+## ⚠️ Attention
 
 > **Note**
 > Please verify [version](https://github.com/cool-dev-code/Gameloop-iPad-view-Keymapping/blob/main/Readme.md#version-update) of `PUBG Mobile`and `Gameloop` before using.
 
-## How to get iPad View ==> *(Automatic Method)*:
+## ⬇️ How to get iPad View ==> *(Automatic Method)*:
 
 - Close Gameloop if running.
 - Open `iPad-View-(Shuja-Plays).bat` [download here](https://github.com/cool-dev-code/Gameloop-Pro-Keymapping/releases)
@@ -41,7 +41,7 @@
 - Now Press Enter.
 - Enjoy iPad View 😀
 
-## How to get iPad View ==> *(Manual Method)*:
+## ⬇️ How to get iPad View ==> *(Manual Method)*:
 
 - Close Gameloop if running.
 - Open `File Explorer` and Paste this 👇 Address in Address bar : 
@@ -54,9 +54,9 @@ C:\Users\%USERPROFILE%\AppData\Roaming\AndroidTb
 - You are Done. Enjoy :)
 
 ---
-## Contact Me
+## 💬 Contact Me
 Join me on my **Discord server** ❤️
 > https://discord.gg/9mjwNGJHWH
 ---
-## FAQ (Frequently Asked Questions)
+## 🤔 FAQ (Frequently Asked Questions)
 Ask me on Discord 👆
