@@ -63,6 +63,6 @@ Ask me on Discord 👆
 
 <a href="https://www.youtube.com/watch?v=2CHkmXX25Vk" title="iPad view in Pubg Mobile without any file">
   <p align="center">
-    <img width="50%" src="[https://i9.ytimg.com/vi_webp/2CHkmXX25Vk/maxresdefault.webp](https://i9.ytimg.com/vi_webp/2CHkmXX25Vk/maxresdefault.webp)" alt="iPad view in Gameloop PUBG Mobile"/>
+    <img width="50%" src="https://i9.ytimg.com/vi_webp/2CHkmXX25Vk/maxresdefault.webp" alt="iPad view in Gameloop PUBG Mobile"/>
   </p>
 </a>
