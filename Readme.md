@@ -16,14 +16,14 @@
 ---
 
 ## 🆕 Version Update:
-> Last Update Date : 01-July-23
-- PUBG Mobile `2.6`
-- Gameloop `4.1.128.90` (32 bit version)
+> ✨ Last Update Date : 01-July-23
+- 🔫 PUBG Mobile `2.6`
+- 🌍 Gameloop `4.1.128.90` (32 bit version)
 
 ## 📜 Change logs:
 
-- Event (Dinoground Keymapping) Added.
-- Keymapping fixed.
+- 🦖 Event (Dinoground Keymapping) Added.
+- 🎮 Keymapping fixed.
 
 ## ❌ Not yet working:
 
