@@ -33,7 +33,15 @@
 > **Note**
 > Please verify version of `PUBG Mobile`and `Gameloop` before using.
 
-## How to use ==> *(Download Method)*:
+## How to use ==> *(Automatic Method)*:
+
+- Close Gameloop if running.
+- Open `IPad-View-(Shuja-Plays).bat`
+- Press 1.
+- Now Press Enter.
+- Enjoy iPad View 😀
+
+## How to use ==> *(Manual Method)*:
 
 - Close Gameloop if running.
 - Open `File Explorer` and Paste this 👇 Address in Address bar : 
@@ -43,19 +51,6 @@ C:\Users\%USERPROFILE%\AppData\Roaming\AndroidTb
 - Click Enter.
 - Replace `TVM_100.xml` with [this](https://github.com/cool-dev-code/Gameloop-Pro-Keymapping/releases) file.
 - Now Open game.
-- You are Done. Enjoy :)
-
-## How to use ==> *(Manual Method):*
-
-- Close Gameloop if running.
-- Open `File Explorer` and Paste this 👇 Address in Address bar : 
-```js
-C:\Users\%USERPROFILE%\AppData\Roaming\AndroidTb
-```
-- Open `TVM_100.xml` with Notepad
-- Select all text and Replace with this [text](https://github.com/cool-dev-code/Gameloop-Pro-Keymapping/blob/main/TVM_100.xml)
-- Save this file
-- Open game.
 - You are Done. Enjoy :)
 
 ---
