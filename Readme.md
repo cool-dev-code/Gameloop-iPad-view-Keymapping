@@ -33,15 +33,15 @@
 > **Note**
 > Please verify version of `PUBG Mobile`and `Gameloop` before using.
 
-## How to use ==> *(Automatic Method)*:
+## How to get iPad View ==> *(Automatic Method)*:
 
 - Close Gameloop if running.
-- Open `IPad-View-(Shuja-Plays).bat`
+- Open `IPad-View-(Shuja-Plays).bat` [download here](https://github.com/cool-dev-code/Gameloop-Pro-Keymapping/releases)
 - Press 1.
 - Now Press Enter.
 - Enjoy iPad View 😀
 
-## How to use ==> *(Manual Method)*:
+## How to get iPad View ==> *(Manual Method)*:
 
 - Close Gameloop if running.
 - Open `File Explorer` and Paste this 👇 Address in Address bar : 
@@ -49,7 +49,7 @@
 C:\Users\%USERPROFILE%\AppData\Roaming\AndroidTb
 ```
 - Click Enter.
-- Replace `TVM_100.xml` with [this](https://github.com/cool-dev-code/Gameloop-Pro-Keymapping/releases) file.
+- Replace `TVM_100.xml` with [this](https://github.com/cool-dev-code/Gameloop-iPad-view-Keymapping/releases) file.
 - Now Open game.
 - You are Done. Enjoy :)
 
