@@ -61,8 +61,8 @@ Join me on my **Discord server** ❤️
 ## 🤔 FAQ (Frequently Asked Questions)
 Ask me on Discord 👆
 
-<a href="https://youtu.be/5xwHkLPgvtQ" title="Music Caster Video Demo">
+<a href="https://www.youtube.com/watch?v=2CHkmXX25Vk" title="iPad view in Pubg Mobile without any file">
   <p align="center">
-    <img width="75%" src="https://img.youtube.com/vi/5xwHkLPgvtQ/maxresdefault.jpg" alt="Music Caster Video Demo Thumbnail"/>
+    <img width="50%" src="[https://i9.ytimg.com/vi_webp/2CHkmXX25Vk/maxresdefault.webp](https://i9.ytimg.com/vi_webp/2CHkmXX25Vk/maxresdefault.webp)" alt="iPad view in Gameloop PUBG Mobile"/>
   </p>
 </a>
