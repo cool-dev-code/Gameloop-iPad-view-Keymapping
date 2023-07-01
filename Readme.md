@@ -66,3 +66,7 @@ Join me on my **Discord server** ❤️
 ---
 ## 🤔 FAQ (Frequently Asked Questions)
 Ask me on Discord 👆
+
+You can try the following:
+
+<iframe width="500" height="300" src="https://www.youtube.com/embed/2CHkmXX25Vk" frameborder="0" allowfullscreen></iframe>
