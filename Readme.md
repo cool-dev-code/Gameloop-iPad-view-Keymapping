@@ -22,7 +22,7 @@
 
 ## 📜 Change logs:
 
-- 🦖 Event (Dinoground Keymapping) Added.
+- 🐲 Event (Dragon Ball ZKeymapping) Added.
 - 🎮 Keymapping fixed.
 
 ## ❌ Not yet working:
