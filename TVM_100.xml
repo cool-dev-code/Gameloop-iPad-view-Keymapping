@@ -206,7 +206,7 @@
 <SwitchOperation Description="吼叫（霸王龙）" EnableSwitch="Bellow" DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.806691" Point_Y="0.640199"/>
 <SwitchOperation Description="停止（霸王龙）" EnableSwitch="Stop" DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.806691" Point_Y="0.640199"/>
 </KeyMapping>
-<KeyMapping ItemName="F" Point_X="0.525000" Point_Y="0.626389" Description="Shuja Plays PUBG Mobile 2.6" MiniVisiable="false" MiniDisable="false" NoDelete="1" SpecialFunc="1002" OpGuidClass="0" AsciiCode="70">
+<KeyMapping ItemName="F" Point_X="0.525000" Point_Y="0.626389" Description="Shuja Plays PUBG Mobile 2.7" MiniVisiable="false" MiniDisable="false" NoDelete="1" SpecialFunc="1002" OpGuidClass="0" AsciiCode="70">
 <SwitchOperation Description="救人" EnableSwitch="Help" DisableSwitch="XBtn|MapOpenFlag" Point_X="0.502344" Point_Y="0.612500" TexturePosition="Help"/>
 <SwitchOperation Description="取消丢雷" EnableSwitch="CancelFireTheHole" DisableSwitch="XBtn|MapOpenFlag" Point_X="0.253906" Point_Y="0.520833" TexturePosition="CancelFireTheHole"/>
 <SwitchOperation Description="下车" EnableSwitch="GetOutCar" DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.870000" Point_Y="0.452222" HideTips="1" TexturePosition="GetOutCar"/>
@@ -455,7 +455,7 @@
 <SwitchOperation Description="吼叫（霸王龙）" EnableSwitch="Bellow" DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.863240" Point_Y="0.722772"/>
 <SwitchOperation Description="停止（霸王龙）" EnableSwitch="Stop" DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.863240" Point_Y="0.722772"/>
 </KeyMapping>
-<KeyMapping ItemName="F" Point_X="0.495645" Point_Y="0.620347" Description="Shuja Plays PUBG 2.6" MiniVisiable="false" MiniDisable="false" NoDelete="1" SpecialFunc="1002" OpGuidClass="0" AsciiCode="70">
+<KeyMapping ItemName="F" Point_X="0.495645" Point_Y="0.620347" Description="Shuja Plays PUBG 2.7" MiniVisiable="false" MiniDisable="false" NoDelete="1" SpecialFunc="1002" OpGuidClass="0" AsciiCode="70">
 <SwitchOperation Description="救人" EnableSwitch="Help" DisableSwitch="XBtn|MapOpenFlag" Point_X="0.500781" Point_Y="0.712500" TexturePosition="Help"/>
 <SwitchOperation Description="取消丢雷" EnableSwitch="CancelFireTheHole" DisableSwitch="XBtn|MapOpenFlag" Point_X="0.188281" Point_Y="0.663889" TexturePosition="CancelFireTheHole"/>
 <SwitchOperation Description="下车" EnableSwitch="GetOutCar" DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.870000" Point_Y="0.452222" HideTips="1" TexturePosition="GetOutCar"/>
@@ -759,7 +759,7 @@
 <SwitchOperation Description="吼叫（霸王龙）" EnableSwitch="Bellow" DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.863240" Point_Y="0.722772"/>
 <SwitchOperation Description="停止（霸王龙）" EnableSwitch="Stop" DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.863240" Point_Y="0.722772"/>
 </KeyMapping>
-<KeyMapping ItemName="F" Point_X="0.495645" Point_Y="0.620347" Description="Shuja Plays PUBG 2.6" MiniVisiable="false" MiniDisable="false" NoDelete="1" SpecialFunc="1002" OpGuidClass="0" AsciiCode="70">
+<KeyMapping ItemName="F" Point_X="0.495645" Point_Y="0.620347" Description="Shuja Plays PUBG 2.7" MiniVisiable="false" MiniDisable="false" NoDelete="1" SpecialFunc="1002" OpGuidClass="0" AsciiCode="70">
 <SwitchOperation Description="救人" EnableSwitch="Help" DisableSwitch="XBtn|MapOpenFlag" Point_X="0.500781" Point_Y="0.720833" TexturePosition="Help"/>
 <SwitchOperation Description="取消丢雷" EnableSwitch="CancelFireTheHole" DisableSwitch="XBtn|MapOpenFlag" Point_X="0.188281" Point_Y="0.663889" TexturePosition="CancelFireTheHole"/>
 <SwitchOperation Description="下车" EnableSwitch="GetOutCar" DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.870000" Point_Y="0.452222" HideTips="1" TexturePosition="GetOutCar"/>
