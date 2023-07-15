@@ -16,14 +16,15 @@
 ---
 
 ## ✨ Version Update:
+
 > 🆕 Last Update Date : 15-July-23
 - 🔫 PUBG Mobile `2.7`
 - 🌍 Gameloop `4.1.128.90` (32 bit version)
 
 ## 📜 Change logs:
 
-- 🐲 Event (Dragon Ball ZKeymapping) Added.
 - 🎮 Keymapping fixed.
+- 🐲 Event (Dragon Ball ZKeymapping) Added.
 
 ## ❌ Not yet working:
 
@@ -35,7 +36,6 @@
 ---
 
 ## ⚠️ Attention
-
 > **Note**
 > Please verify [version](https://github.com/cool-dev-code/Gameloop-iPad-view-Keymapping/blob/main/Readme.md#version-update) of `PUBG Mobile`and `Gameloop` before using.
 
