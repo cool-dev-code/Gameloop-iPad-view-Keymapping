@@ -24,7 +24,7 @@
 ## 📜 Change logs:
 
 - 🎮 Keymapping fixed.
-- 🐲 Event (Dragon Ball ZKeymapping) Added.
+- 🐲 Event (Dragon Ball Z Keymapping) Added.
 
 ## ❌ Not yet working:
 
