@@ -24,15 +24,14 @@
 ## 📜 Change logs:
 
 - 🎮 Keymapping fixed.
-- 🐲 Event (Dragon Ball Z Keymapping) Added.
+- 🖱️Mouse Scroll when Picking up items.
+- 🖱️Mouse Scroll when Picking up items (when Backpack open).
+- 🖱️Mouse Scroll when Picking up items (from Box / Loot crate or Airdrop 9 blocks)
+- 🖱️Mouse Scroll when Picking up items (from Box / Loot crate or Airdrop 6 blocks)
 
 ## ❌ Not yet working:
 
 - Zoom Scope with middle mouse button
-- Mouse Scroll when Picking up items.
-- Mouse Scroll when Picking up items (when Backpack open).
-- Mouse Scroll when Picking up items (from Box / Loot crate or Airdrop 9 blocks)
-- Mouse Scroll when Picking up items (from Box / Loot crate or Airdrop 6 blocks)
 ---
 
 ## ⚠️ Attention
