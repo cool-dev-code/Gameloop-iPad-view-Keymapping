@@ -17,8 +17,8 @@
 
 ## ✨ Version Update:
 
-> 🆕 Last Update Date : 15-July-23
-- 🔫 PUBG Mobile `2.7`
+> 🆕 Last Update Date : 18-Sep-23
+- 🔫 PUBG Mobile `2.8`
 - 🌍 Gameloop `4.1.129.90` (32 bit version)
 
 ## 📜 Change logs:
