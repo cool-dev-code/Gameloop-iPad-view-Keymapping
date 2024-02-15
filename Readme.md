@@ -17,9 +17,9 @@
 
 ## ✨ Version Update:
 
-> 🆕 Last Update Date : 18-Sep-23
-- 🔫 PUBG Mobile `2.8`
-- 🌍 Gameloop `4.1.129.90` (32 bit version)
+> 🆕 Last Update Date : 15-Feb-24
+- 🔫 PUBG Mobile `3.0`
+- 🌍 Gameloop `4.1.130.90` (32 bit version)
 
 ## 📜 Change logs:
 
@@ -31,7 +31,7 @@
 
 ## ❌ Not yet working:
 
-- Zoom Scope with middle mouse button
+- Zoom Scope with scroll (middle mouse button)
 ---
 
 ## ⚠️ Attention
