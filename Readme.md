@@ -22,8 +22,6 @@
 - 🌍 Gameloop `4.1.131.90` (32 bit version)
 
 ## 📜 Change logs:
-
-## 📜 Change logs:
 - Ported to PUBG Mobile 3.0
 
 ## ❌ Not yet working:
