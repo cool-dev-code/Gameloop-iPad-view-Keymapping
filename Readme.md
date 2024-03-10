@@ -17,17 +17,14 @@
 
 ## ✨ Version Update:
 
-> 🆕 Last Update Date : 15-Feb-24
+> 🆕 Last Update Date: 10-Mar-24
 - 🔫 PUBG Mobile `3.0`
-- 🌍 Gameloop `4.1.130.90` (32 bit version)
+- 🌍 Gameloop `4.1.131.90` (32 bit version)
 
 ## 📜 Change logs:
 
-- 🎮 Keymapping fixed.
-- 🖱️Mouse Scroll when Picking up items.
-- 🖱️Mouse Scroll when Picking up items (when Backpack open).
-- 🖱️Mouse Scroll when Picking up items (from Box / Loot crate or Airdrop 9 blocks)
-- 🖱️Mouse Scroll when Picking up items (from Box / Loot crate or Airdrop 6 blocks)
+## 📜 Change logs:
+- Ported to PUBG Mobile 3.0
 
 ## ❌ Not yet working:
 
@@ -49,7 +46,7 @@
 ## ⬇️ How to get iPad View ==> *(Manual Method)*:
 
 - Close Gameloop if running.
-- Open `File Explorer` and Paste this 👇 Address in Address bar : 
+- Open `File Explorer` and Paste this 👇 address in Address bar : 
 ```js
 C:\Users\%USERPROFILE%\AppData\Roaming\AndroidTbox
 ```
