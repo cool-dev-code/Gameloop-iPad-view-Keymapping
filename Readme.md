@@ -51,7 +51,7 @@
 - Close Gameloop if running.
 - Open `File Explorer` and Paste this 👇 Address in Address bar : 
 ```js
-C:\Users\%USERPROFILE%\AppData\Roaming\AndroidTb
+C:\Users\%USERPROFILE%\AppData\Roaming\AndroidTbox
 ```
 - Click Enter.
 - Replace `TVM_100.xml` with [this](https://github.com/cool-dev-code/Gameloop-iPad-view-Keymapping/releases) file.
