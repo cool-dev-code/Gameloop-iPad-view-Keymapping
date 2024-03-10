@@ -12,7 +12,7 @@
 > **Note**
 - SD 720P (Supported)✅
 - HD 1080P (Supported)✅
-- FHD 2K (Supported)✅
+- FHD 2K (Will be fixed in 3.1)⚠️
 ---
 
 ## ✨ Version Update:
