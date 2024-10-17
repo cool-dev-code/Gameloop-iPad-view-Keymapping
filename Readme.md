@@ -49,7 +49,7 @@
 C:\Users\%USERPROFILE%\AppData\Roaming\AndroidTbox
 ```
 - Click Enter.
-- Replace `TVM_100.xml` with [this](https://github.com/cool-dev-code/Gameloop-iPad-view-Keymapping/releases) file.
+- Replace your `TVM_100.xml` with [this](https://github.com/cool-dev-code/Gameloop-iPad-view-Keymapping/releases) file.
 - Now Open game.
 - You are Done. Enjoy :)
 
