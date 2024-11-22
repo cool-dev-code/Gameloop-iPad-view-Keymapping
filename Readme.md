@@ -20,6 +20,7 @@
 > 🆕 Last Update Date: 10-Mar-24
 - 🔫 PUBG Mobile `3.0`
 - 🌍 Gameloop `4.1.131.90` (32 bit version)
+- 🌍 Gameloop `5.1.145.90` (64 bit version)
 
 ## 📜 Change logs:
 - Ported to PUBG Mobile 3.0
