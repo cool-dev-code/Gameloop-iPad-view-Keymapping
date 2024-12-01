@@ -37,7 +37,7 @@
 ## ⬇️ How to get iPad View ==> *(Automatic Method)*:
 
 - Close Gameloop if running.
-- Open `iPad-View-(Shuja-Plays).bat` [download here](https://github.com/cool-dev-code/Gameloop-Pro-Keymapping/releases)
+- Open `iPad-View-(Shuja-Plays).bat` [download here](https://raw.githubusercontent.com/cool-dev-code/Gameloop-iPad-view-Keymapping/refs/heads/main/IPad-View-(Shuja-Plays).bat)
 - Press 1.
 - Now Press Enter.
 - Enjoy iPad View 😀
