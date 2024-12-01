@@ -1,35 +1,34 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+Name: Bug report
+About: Create a report to help us improve
+Title: ''
+Labels: ''
+Assignees: ''
 
 ---
 
-**Describe the bug**
+## Describe the Issue
 A clear and concise description of what the bug is.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+### To Reproduce
+- Steps to reproduce the behaviour:
+1. In `.....` (Match / Cheerpark / Training Ground)
+2. While `.....` (Driving / Walking / Item Pickup)
+3. Press `.....` Button
+4. `.....` Not working
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+### Expected behaviour
+- A clear and concise description of what you expected to happen.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+### Screenshots
+- If applicable, add screenshots to help explain your problem.
 
-**Desktop** (please complete the following information):
- - OS: [e.g. Windows 10/11]
- - Edition [e.g. Home/Pro]
- - Version [e.g. 22H2]
- - Architecture [e.g. 32/64 bit]
- - Gameloop Version [e.g. 4.1.128.90]
- - PUBG Mobile Version [e.g. 2.7]
+### Please give the following info:
+ - Windows: `.....` [e.g. 10/11]
+ - Windows Version: `.....` [e.g. 24H2]
+ - Gameloop Architecture: `.....` [e.g. 32/64 bit]
+ - Gameloop Version: `.....` [e.g. 4.1.135.90]
+ - PUBG Mobile Version: `.....` [e.g. 3.5]
 
-**Additional context**
+### Additional context
 Add any other context about the problem here.
