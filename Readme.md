@@ -32,7 +32,7 @@
 
 ## ⚠️ Attention
 > **Note**
-> Please verify [version](https://github.com/cool-dev-code/Gameloop-iPad-view-Keymapping/blob/main/Readme.md#version-update) of `PUBG Mobile`and `Gameloop` before using.
+> Please verify [version](https://github.com/cool-dev-code/Gameloop-iPad-view-Keymapping/blob/main/Readme.md#-version-update) of `PUBG Mobile`and `Gameloop` before using.
 
 ## ⬇️ How to get iPad View ==> *(Automatic Method)*:
 
