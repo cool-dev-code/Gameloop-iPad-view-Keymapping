@@ -27,6 +27,9 @@
 
 ## ❌ Not yet working:
 - Zoom Scope with scroll (middle mouse button)
+- (Shift) While Driving (Detail below)
+- Problem in Gameloop. I can fix this issue but if I fix it now, it may cause problems in future.
+- I will give a hotfix until the Gameloop team fixes this on their end.
 ---
 
 ## ⚠️ Attention
