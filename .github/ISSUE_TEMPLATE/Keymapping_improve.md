@@ -1,5 +1,5 @@
 ---
-name: ⚠️ Keymapping improvement
+name: ➕ Keymapping improvement
 about:  Request to add new buttons in keymapping
 title: 'Add new button'
 labels: 'Add New Keymapping'
