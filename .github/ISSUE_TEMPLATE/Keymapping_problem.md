@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: Keymapping Problem
 about: Create a report to help us improve
 Title: ''
 Labels: ''
