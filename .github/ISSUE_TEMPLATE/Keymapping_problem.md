@@ -3,7 +3,7 @@ name: Keymapping Problem
 about: Keymapping not working as Expected
 Title: '.... Button not working'
 Labels: 'Keymapping not working'
-Assignees: 'cool-dev-code'
+Assignees: '@cool-dev-code'
 
 ---
 
