@@ -10,9 +10,9 @@
 
 **Gameloop iPad View Keymapping** fixes the keymapping problem on iPad view. 
 > **Note**
-- SD 720P (Not Tested)⚠️
+- SD 720P (Supported)✅
 - HD 1080P (Supported)✅
-- FHD 2K (Not Tested)⚠️
+- FHD 2K (Supported)✅
 ---
 
 ## ✨ Version Update:
