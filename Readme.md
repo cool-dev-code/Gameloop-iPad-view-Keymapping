@@ -49,6 +49,9 @@ C:\Users\%USERPROFILE%\AppData\Roaming\AndroidTbox
 - Replace your `TVM_100.xml` file with [this](https://github.com/cool-dev-code/Gameloop-iPad-view-Keymapping/releases) file.
 - You are Done. Enjoy :)
 
+## iPad Resolution Calculator
+- Goto [my website](https://cool-dev-code.github.io/ipad-view-calculator/) to calculate your resolution
+
 ---
 ## 🤔 FAQ (Frequently Asked Questions)
 Ask me on Discord 👇
