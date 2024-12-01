@@ -26,7 +26,6 @@
 - Ported to PUBG Mobile 3.0
 
 ## ❌ Not yet working:
-
 - Zoom Scope with scroll (middle mouse button)
 ---
 
@@ -34,30 +33,27 @@
 > **Note**
 > Please verify [version](https://github.com/cool-dev-code/Gameloop-iPad-view-Keymapping/blob/main/Readme.md#-version-update) of `PUBG Mobile`and `Gameloop` before using.
 
-## ⬇️ How to get iPad View ==> *(Automatic Method)*:
-
+## ⬇️ How to get iPad View .. *(Automatic Method)*:
 - Close Gameloop if running.
-- Open `iPad-View-(Shuja-Plays).bat` [download here](https://raw.githubusercontent.com/cool-dev-code/Gameloop-iPad-view-Keymapping/refs/heads/main/IPad-View-(Shuja-Plays).bat)
-- Press 1.
-- Now Press Enter.
+- Open this file `iPad-View-(Shuja-Plays).bat` [download here](https://raw.githubusercontent.com/cool-dev-code/Gameloop-iPad-view-Keymapping/refs/heads/main/IPad-View-(Shuja-Plays).bat)
+- Follow the Steps in this file
 - Enjoy iPad View 😀
 
-## ⬇️ How to get iPad View ==> *(Manual Method)*:
-
+## ⬇️ How to get iPad View .. *(Manual Method)*:
 - Close Gameloop if running.
 - Open `File Explorer` and Paste this 👇 address in Address bar : 
 ```js
 C:\Users\%USERPROFILE%\AppData\Roaming\AndroidTbox
 ```
 - Click Enter.
-- Replace your `TVM_100.xml` with [this](https://github.com/cool-dev-code/Gameloop-iPad-view-Keymapping/releases) file.
-- Now Open game.
+- Replace your `TVM_100.xml` file with [this](https://github.com/cool-dev-code/Gameloop-iPad-view-Keymapping/releases) file.
 - You are Done. Enjoy :)
 
 ---
-## 💬 Contact Me
-Join me on my **Discord server** ❤️
-> https://discord.gg/9mjwNGJHWH
----
 ## 🤔 FAQ (Frequently Asked Questions)
-Ask me on Discord 👆
+Ask me on Discord 👇
+
+---
+## 💬 Contact Me
+Join me on my **Discord Server** ❤️
+> https://discord.gg/9mjwNGJHWH
