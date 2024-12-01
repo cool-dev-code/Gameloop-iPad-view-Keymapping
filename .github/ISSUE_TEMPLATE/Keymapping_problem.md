@@ -1,6 +1,6 @@
 ---
 name: Keymapping Problem
-about: Create a report to help us improve
+about: Keymapping not working as Expected
 Title: ''
 Labels: ''
 Assignees: ''
