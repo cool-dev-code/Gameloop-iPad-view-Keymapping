@@ -54,6 +54,13 @@ C:\Users\%USERPROFILE%\AppData\Roaming\AndroidTbox
 
 ## 💻 iPad Resolution Calculator
 - Goto [my website](https://cool-dev-code.github.io/ipad-view-calculator/) to calculate your resolution
+## ☑️ Suggested Resolutions
+|	Display Resolution	|	Engine Resolution	|	Game Defination	|
+|	:-------------:	|	:------------:	|	:------------:	|
+|	<b>1280x720</b>	|	960x720	|	SD 720P	|
+|	<b>1920x1080</b>	|	1440x1080	|	HD 1080P	|
+|	<b>2560x1440</b>	|	1920x1440	|	FHD 2K	|
+
 
 ---
 ## 🤔 FAQ (Frequently Asked Questions)
