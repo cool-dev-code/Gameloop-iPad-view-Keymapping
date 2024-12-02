@@ -14,7 +14,7 @@
 - HD 1080P (Supported)✅
 - FHD 2K (Supported)✅
 ---
-3
+
 ## ✨ Version Update:
 
 > 🆕 Last Update Date: 1-Dec-24
