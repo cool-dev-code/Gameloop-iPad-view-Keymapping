@@ -1,6 +1,6 @@
 ---
 name: ➕ Keymapping improvement
-about:  Request to add new buttons in keymapping
+about:  Request to add new buttons in keymapping etc
 title: 'Add new button'
 labels: 'Add New Keymapping'
 assignees: 'cool-dev-code'
