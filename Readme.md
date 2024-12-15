@@ -53,7 +53,7 @@ C:\Users\%USERPROFILE%\AppData\Roaming\AndroidTbox
 - You are Done. Enjoy :)
 
 ## 💻 iPad Resolution Calculator
-- Goto [my website](https://cool-dev-code.github.io/ipad-view-calculator/) to calculate your resolution
+- Goto [my website](https://cool-dev-code.github.io/iPad-View-Calculator/) to calculate your resolution
 ## ☑️ Suggested Resolutions
 |	Display Resolution	|	Engine Resolution	|	Game Defination	|
 |	:-------------:	|	:------------:	|	:------------:	|
