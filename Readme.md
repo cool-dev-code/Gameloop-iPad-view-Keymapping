@@ -62,6 +62,9 @@ C:\Users\%USERPROFILE%\AppData\Roaming\AndroidTbox
 |	<b>2560x1440</b>	|	1920x1440	|	FHD 2K	|
 
 
+## 📚 Wiki
+- For more details visit wiki [here](https://github.com/cool-dev-code/Gameloop-iPad-view-Keymapping/wiki)
+
 ---
 ## 🤔 FAQ (Frequently Asked Questions)
 - [Open Issue](https://github.com/cool-dev-code/Gameloop-iPad-view-Keymapping/issues) on GiHub
