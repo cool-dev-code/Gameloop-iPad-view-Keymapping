@@ -64,7 +64,8 @@ C:\Users\%USERPROFILE%\AppData\Roaming\AndroidTbox
 
 ---
 ## 🤔 FAQ (Frequently Asked Questions)
-Ask me on Discord 👇
+- [Open Issue](https://github.com/cool-dev-code/Gameloop-iPad-view-Keymapping/issues) on GiHub
+- If i am not available, Ask me on Discord 👇
 
 ## 💬 Contact Me
 Join me on my **Discord Server** ❤️
