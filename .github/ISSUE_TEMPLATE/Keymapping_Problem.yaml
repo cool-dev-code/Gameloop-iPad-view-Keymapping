@@ -1,0 +1,103 @@
+name: ⚠️ Keymapping Problem
+description: Open an issue for Keymapping not working as Expected
+title: "[.... Button not working]: "
+labels: ["Keymapping not working"]
+assignees:
+  - cool-dev-code
+body:
+  - type: markdown
+    attributes:
+      value: |
+        💖 Thanks for taking the time to fill out this form!
+  - type: checkboxes
+    id: new-issue
+    attributes:
+      label: 🆕 This is definitely a new issue. I have already searched for existing issues.
+      description: 
+      options:
+        - label: There is no existing issue on this topic.
+          required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we contact you if we need more information?
+      placeholder: ex. email / discord etc (optional)
+    validations:
+      required: false
+  - type: dropdown
+    id: variant
+    attributes:
+      label: PUBG Mobile Variant
+      description: Which variant of PUBG Mobile are you using?
+      multiple: false
+      options:
+        - PUBG Mobile - Global
+        - PUBG Mobile - Beta
+        - PUBG Mobile - Lite
+        - PUBG Mobile - KR
+        - PUBG Mobile - VN
+        - PUBG Mobile - TW
+        - Game For Peace
+        - BGMI
+      default: 0
+  - type: dropdown
+    id: version
+    attributes:
+      label: Gameloop Architecture
+      description: What is your Gameloop architecture?
+      options:
+        - Gameloop 32-bit
+        - Gameloop 64-bit
+      default: 0
+  - type: dropdown
+    id: windows-version
+    attributes:
+      label: Windows version
+      description: Which version of Windows are you using?
+      multiple: false
+      options:
+        - Windows 11
+        - Windows 10
+        - Windows 8.1
+        - Windows 8
+      default: 0
+  - type: textarea
+    id: info
+    attributes:
+      label: Detailed Information
+      description: Give us more detailed Information
+      placeholder: Tell us in Detail!
+      value: "PUBG Mobile Version: .......... [e.g. 3.5] \nGameloop Version: ................ [e.g. 4.1.135.90] \nWindows Version: ................... [e.g. 24H2] "
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: A clear and concise description of what happened?
+      placeholder: Tell us what you see!
+      value: "While Driving scope .... ! "
+    validations:
+      required: true
+  - type: textarea
+    id: conditions
+    attributes:
+      label: Conditions
+      description: Tell us Conditions where this Keymapping is applicable?
+      placeholder: Conditions Detail!
+      value: "In `.....` (Match / Cheerpark / Training Ground) \nWhile `.....` (Driving / Walking / Item Pickup) \nPress `.....` Button \n`.....` not working"
+    validations:
+      required: true
+  - type: textarea
+    id: attachments
+    attributes:
+      label: Attachments
+      description: If applicable upload attachments to explain your issue
+      placeholder: Upload your Attachments here!
+  - type: textarea
+    id: logs
+    attributes:
+      label: My Keymapping Settings
+      description: Please copy paste your `TVM_100.xml` file here.
+      render: shell
