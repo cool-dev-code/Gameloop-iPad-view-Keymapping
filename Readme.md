@@ -44,7 +44,7 @@
 
 ## ⬇️ How to get iPad View .. *(Manual Method)*:
 - Close Gameloop if running.
-- Open `File Explorer` and Paste this 👇 address in Address bar : 
+- Open `File Explorer` and Paste this 👇 address in the Address bar : 
 ```js
 C:\Users\%USERPROFILE%\AppData\Roaming\AndroidTbox
 ```
@@ -55,20 +55,16 @@ C:\Users\%USERPROFILE%\AppData\Roaming\AndroidTbox
 ## 💻 iPad Resolution Calculator
 - Goto [my website](https://cool-dev-code.github.io/iPad-View-Calculator/) to calculate your resolution
 ## ☑️ Suggested Resolutions
-|	Display Resolution	|	Engine Resolution	|	Game Defination	|
+|	Display Resolution	|	Engine Resolution	|	Game Definition	|
 |	:-------------:	|	:------------:	|	:------------:	|
 |	<b>1280x720</b>	|	960x720	|	SD 720P	|
 |	<b>1920x1080</b>	|	1440x1080	|	HD 1080P	|
 |	<b>2560x1440</b>	|	1920x1440	|	FHD 2K	|
 
-
-## 📚 Wiki
-- For more details visit wiki [here](https://github.com/cool-dev-code/Gameloop-iPad-view-Keymapping/wiki)
-
----
-## 🤔 FAQ (Frequently Asked Questions)
-- [Open Issue](https://github.com/cool-dev-code/Gameloop-iPad-view-Keymapping/issues) on GiHub
-- If i am not available, Ask me on Discord 👇
+## 🎗️ More
+- 📚 [Wiki](https://github.com/cool-dev-code/Gameloop-iPad-view-Keymapping/wiki) - For more details.
+- 😩 Problems? - [Check Issues](https://github.com/cool-dev-code/Gameloop-iPad-view-Keymapping/issues) on GitHub or open a new issue.
+- 🚫 If I am not available, Ask me on Discord 👇
 
 ## 💬 Contact Me
 Join me on my **Discord Server** ❤️
