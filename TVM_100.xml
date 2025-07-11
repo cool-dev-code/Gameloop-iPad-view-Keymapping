@@ -1,7 +1,7 @@
-<Item ApkName="com.tencent.ig" 备注="PUBG Mobile Global (iPad View) - Shuja Plays" VersionCode="17000">
-<StartInfo StartTimes="18"/>
+<Item ApkName="com.tencent.ig" 备注="PUBG Mobile Global (iPad View) - Zorito" VersionCode="17000">
+<StartInfo StartTimes="3"/>
 <LastMode ModeID="3" EnableTips="0" EnableGameKeyDT="1" TipsTransparent="0.500000" Lightness="1.000000" EnableSwitchViewLockMethod="0" ExitFullScreenKey="122"/>
-<VersionInfo Version="70" ReqFeatureVer="7" CurFeatureVer="8"/>
+<VersionInfo Version="72" ReqFeatureVer="7" CurFeatureVer="8"/>
 <Switch Name="AdjustMultiples" TextureId="81"/>
 <Switch Name="AdjustMultiplesPressed" TextureId="82"/>
 <Switch Name="Apple" TextureId="89"/>
@@ -108,7 +108,7 @@
 <KeyMapping ItemName="9" Point_X="0.177734" Point_Y="0.955556" Description="Bandage" MiniVisiable="true" MiniDisable="false" AutoCancel="0" AsciiCode="57" KeyMouseSlideType="1" KeyMouseSlidePoints="(0.291016,0.954167,0)(0.290039,0.954167,16)(0.287109,0.954167,15)(0.284180,0.954167,16)(0.274414,0.955556,16)(0.259766,0.955556,15)(0.241211,0.955556,16)(0.221680,0.955556,15)(0.193359,0.955556,16)(0.177734,0.955556,16)(0.177734,0.955556,0)"/>
 <KeyMapping ItemName="C" Point_X="0.943359" Point_Y="0.912500" Description="Crouch" MiniVisiable="false" MiniDisable="false" AsciiCode="67"/>
 <KeyMapping ItemName="E" Point_X="0.220703" Point_Y="0.493056" Description="Peek" MiniVisiable="false" MiniDisable="false" AsciiCode="69"/>
-<KeyMapping ItemName="F" Point_X="0.669922" Point_Y="0.286111" Description="Shuja Plays PUBGM 2.7 iPad View" MiniVisiable="false" MiniDisable="false" AsciiCode="70"/>
+<KeyMapping ItemName="F" Point_X="0.669922" Point_Y="0.286111" Description="Zorito PUBGM 3.9 iPad View" MiniVisiable="false" MiniDisable="false" AsciiCode="70"/>
 <KeyMapping ItemName="G" Point_X="0.668945" Point_Y="0.388889" Description="Ride" MiniVisiable="false" MiniDisable="false" AsciiCode="71"/>
 <KeyMapping ItemName="H" Point_X="0.668945" Point_Y="0.445833" Description="Pickup" MiniVisiable="false" MiniDisable="false" AsciiCode="72"/>
 <KeyMapping ItemName="J" Point_X="0.297852" Point_Y="0.641667" Description="Auto Jump" MiniVisiable="true" MiniDisable="false" AutoCancel="0" AsciiCode="74"/>
@@ -125,7 +125,7 @@
 <KeyMappingEx ItemName="Move with Mouse" Point_X="0.543680" Point_Y="0.378412" Description="View Point" MiniVisiable="false" MiniDisable="false" HideTipsAlways="1" Raw="1" Type="RClick" RawInputOffset="0.300000" Sensi_X="1.000000" Sensi_Y="1.000000"/>
 <KeyMappingEx ItemName="Alt" Point_X="0.777875" Point_Y="0.240099" Description="Free view" MiniVisiable="false" MiniDisable="false" NoDelete="1" SpecialFunc="1001" OpGuidClass="0" InUseDisableView="1" Type="KeyMove" Offset="230" Click_X="0.500000" Click_Y="0.550000" Click_Offset="0.450000" AsciiCode="18" Cancel_X="-0.911133" Cancel_Y="-0.277778" Click_Left="1" ReleaseNow="0" Center_X="0.000000" Center_Y="0.000000" StopMoving="0" NeedPressed="1" Center_XY_Disable="1" Delay="0"/>
 </KeyMapMode>
-<KeyMapMode ModeID="2" Name="iPad 720" ShowTipsAlways="1" CurrModeEnableTips="1">
+<KeyMapMode ModeID="2" Name="iPad 720" ShowTipsAlways="1">
 <KeyMapping ItemName="Right Click" Point_X="0.934982" Point_Y="0.725260" Description="Scope Open/Close" MiniVisiable="false" MiniDisable="false" ShowOnLockAsciiCode="192" AsciiCode="-2">
 <SwitchOperation Description="飞行" EnableSwitch="Fly1" DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.817969" Point_Y="0.822222"/>
 <SwitchOperation Description="上飞（翼龙）" EnableSwitch="Fly2" DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.826250" Point_Y="0.783333"/>
@@ -243,7 +243,7 @@
 <SwitchOperation Description="吼叫（霸王龙）" EnableSwitch="Bellow" DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.806691" Point_Y="0.640199"/>
 <SwitchOperation Description="停止（霸王龙）" EnableSwitch="Stop" DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.806691" Point_Y="0.640199"/>
 </KeyMapping>
-<KeyMapping ItemName="F" Point_X="0.520508" Point_Y="0.150000" Description="Shuja Plays PUBGM 3.5 iPadView" MiniVisiable="false" MiniDisable="false" NoDelete="1" SpecialFunc="1002" OpGuidClass="0" AsciiCode="70">
+<KeyMapping ItemName="F" Point_X="0.520508" Point_Y="0.150000" Description="Zorito PUBGM 3.9 iPad View" MiniVisiable="false" MiniDisable="false" NoDelete="1" SpecialFunc="1002" OpGuidClass="0" AsciiCode="70">
 <SwitchOperation Description="救人" EnableSwitch="Help" DisableSwitch="XBtn|MapOpenFlag" Point_X="0.502344" Point_Y="0.612500" TexturePosition="Help"/>
 <SwitchOperation Description="取消丢雷" EnableSwitch="CancelFireTheHole" DisableSwitch="XBtn|MapOpenFlag" Point_X="0.253906" Point_Y="0.520833" TexturePosition="CancelFireTheHole"/>
 <SwitchOperation Description="下车" EnableSwitch="GetOutCar" DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.870000" Point_Y="0.452222" HideTips="1" TexturePosition="GetOutCar"/>
@@ -304,7 +304,7 @@
 <SwitchOperation Description="Pickup" EnableSwitch="Pickup" DisableSwitch="MapOpenFlag|InSetUp" Point_X="0.672862" Point_Y="0.416873"/>
 <SwitchOperation Description="救回" EnableSwitch="Help2" DisableSwitch="MapOpenFlag|InSetUp" Point_X="0.664714" Point_Y="0.674479" TexturePosition="Help2"/>
 </KeyMapping>
-<KeyMapping ItemName="J" Point_X="0.055208" Point_Y="0.445833" Description="Auto Jump" MiniVisiable="false" MiniDisable="false" NoDelete="1" SpecialFunc="0" OpGuidClass="0" AsciiCode="74">
+<KeyMapping ItemName="J" Point_X="0.086996" Point_Y="0.444010" Description="Auto Jump" MiniVisiable="false" MiniDisable="false" NoDelete="1" SpecialFunc="0" OpGuidClass="0" AsciiCode="74">
 <SwitchOperation Description="Auto Jump when Jump Button" EnableSwitch="SetUp" DisableSwitch="XBtn|InSetUp|Jump|Climb|GetOutCar"/>
 </KeyMapping>
 <KeyMapping ItemName="M" Point_X="0.974609" Point_Y="0.013889" Description="Map" MiniVisiable="false" MiniDisable="false" AsciiCode="77">
@@ -389,7 +389,7 @@
 <SwitchOperation Description="第一种开车模式" EnableSwitch="DriveMode1"/>
 <SwitchOperation Description="第一种开车模式_按着" EnableSwitch="DriveMode1Press"/>
 </KeyMappingEx>
-<KeyMappingEx ItemName="Mouse side button 2" Point_X="0.865625" Point_Y="0.288889" Description="Universal(Marker)" MiniVisiable="false" MiniDisable="false" HideTipsAlways="1" InUseDisableView="1" Type="MultiPoint" AsciiCode="6">
+<KeyMappingEx ItemName="Mouse side button 1" Point_X="0.893773" Point_Y="0.289063" Description="Universal(Marker)" MiniVisiable="false" MiniDisable="false" HideTipsAlways="1" InUseDisableView="1" Type="MultiPoint" AsciiCode="5">
 <Point Point_X="0.803906" Point_Y="0.255556" Delay="15" IsMutex="0" MutexVal="0" IsRepeat="0"/>
 <SwitchOperation Description="Universal(Marker)" EnableSwitch="SetUp" DisableSwitch="XBtn|MapOpenFlag|InSetUp"/>
 </KeyMappingEx>
@@ -398,8 +398,8 @@
 <SwitchOperation Description="Single/Burst/Auto" EnableSwitch="Reload" DisableSwitch="XBtn|MapOpenFlag|InSetUp"/>
 </KeyMappingEx>
 <KeyMappingEx ItemName="T" Point_X="0.847584" Point_Y="0.095297" Description="Turn on/off Speaker" MiniVisiable="false" MiniDisable="false" Type="MultiPoint" AsciiCode="84">
-<Point Point_X="0.717708" Point_Y="0.086111" Delay="300" IsMutex="1" MutexVal="1" IsRepeat="0"/>
-<Point Point_X="0.786458" Point_Y="0.086111" Delay="300" IsMutex="1" MutexVal="0" IsRepeat="0"/>
+<Point Point_X="0.795312" Point_Y="0.111111" Delay="300" IsMutex="1" MutexVal="1" IsRepeat="0"/>
+<Point Point_X="0.746094" Point_Y="0.111111" Delay="300" IsMutex="1" MutexVal="0" IsRepeat="0"/>
 <SwitchOperation Description="开启/静音广播" EnableSwitch="SetUp" DisableSwitch="XBtn|MapOpenFlag|InSetUp"/>
 </KeyMappingEx>
 <KeyMappingEx ItemName="Y" Point_X="0.846154" Point_Y="0.165365" Description="Turn on/off Mic" MiniVisiable="false" MiniDisable="false" Type="MultiPoint" AsciiCode="89">
@@ -451,7 +451,7 @@
 <SwitchOperation Description="小白点" EnableSwitch="AdjustMultiplesPressed|SlipWhitePoint" NotifyController="1" TexturePosition="SlipWhitePoint"/>
 </KeyMappingEx>
 </KeyMapMode>
-<KeyMapMode ModeID="3" Name="iPad 1080" ShowTipsAlways="1" CurrModeEnableTips="1">
+<KeyMapMode ModeID="3" Name="iPad 1080" ShowTipsAlways="1">
 <KeyMapping ItemName="Right Click" Point_X="0.971094" Point_Y="0.724566" Description="Scope Open/Close" MiniVisiable="false" MiniDisable="false" ShowOnLockAsciiCode="192" AsciiCode="-2">
 <SwitchOperation Description="上飞（翼龙）" EnableSwitch="Fly2" DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.888502" Point_Y="0.918317"/>
 <SwitchOperation Description="上飞中（翼龙）" EnableSwitch="Fly3" DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.888502" Point_Y="0.918317"/>
@@ -470,12 +470,12 @@
 <SwitchOperation Description="2级背包" EnableSwitch="Backpage2" DisableSwitch="InSetUp" Point_X="0.054688" Point_Y="0.931944"/>
 <SwitchOperation Description="3级背包" EnableSwitch="Backpage3" DisableSwitch="InSetUp" Point_X="0.054688" Point_Y="0.931944"/>
 </KeyMapping>
-<KeyMapping ItemName="Shift" Point_X="0.054833" Point_Y="0.681141" Description="Run / Speed Boost Car" MiniVisiable="false" MiniDisable="false" AsciiCode="16">
-<SwitchOperation Description="Boost (Driving mode 1)" EnableSwitch="DriveMode1|DriveSpeed" DisableSwitch="XBtn|MapOpenFlag|InSetUp|Moto|Moto2" Point_X="0.054833" Point_Y="0.681141"/>
-<SwitchOperation Description="Boost (Driving mode 1 Pressed)" EnableSwitch="DriveMode1|DriveSpeedPress" DisableSwitch="XBtn|MapOpenFlag|InSetUp|Moto|Moto2" Point_X="0.054833" Point_Y="0.681141"/>
-<SwitchOperation Description="Boost (Driving mode 2)" EnableSwitch="DriveSpeed" DisableSwitch="XBtn|MapOpenFlag|InSetUp|Moto|Moto2" Point_X="0.054833" Point_Y="0.681141"/>
-<SwitchOperation Description="Boost (Driving mode 2 Pressed)" EnableSwitch="DriveSpeedPress" DisableSwitch="XBtn|MapOpenFlag|InSetUp|Moto|Moto2" Point_X="0.054833" Point_Y="0.681141"/>
-<SwitchOperation Description="Boost" EnableSwitch="Whistle" DisableSwitch="XBtn|MapOpenFlag|InSetUp|Moto|Moto2" Point_X="0.054833" Point_Y="0.681141"/>
+<KeyMapping ItemName="Shift" Point_X="0.861722" Point_Y="0.875000" Description="Run / Speed Boost Car" MiniVisiable="false" MiniDisable="false" AsciiCode="16">
+<SwitchOperation Description="加速(驾驶模式1)" EnableSwitch="DriveMode1|DriveSpeed" DisableSwitch="XBtn|MapOpenFlag|InSetUp|Moto|Moto2" Point_X="0.058362" Point_Y="0.655087"/>
+<SwitchOperation Description="加速(驾驶模式1)" EnableSwitch="DriveMode1|DriveSpeedPress" DisableSwitch="XBtn|MapOpenFlag|InSetUp|Moto|Moto2" Point_X="0.058362" Point_Y="0.655087"/>
+<SwitchOperation Description="加速(驾驶模式2)" EnableSwitch="DriveSpeed" DisableSwitch="XBtn|MapOpenFlag|InSetUp|Moto|Moto2" Point_X="0.861722" Point_Y="0.875000"/>
+<SwitchOperation Description="加速(驾驶模式2)" EnableSwitch="DriveSpeedPress" DisableSwitch="XBtn|MapOpenFlag|InSetUp|Moto|Moto2" Point_X="0.861722" Point_Y="0.875000"/>
+<SwitchOperation Description="加速" EnableSwitch="Whistle" DisableSwitch="XBtn|MapOpenFlag|InSetUp|Moto|Moto2" Point_X="0.863281" Point_Y="0.844444"/>
 <SwitchOperation Description="自行车" EnableSwitch="Bicycle" DisableSwitch="XBtn|MapOpenFlag|InSetUp|Moto|Moto2" Point_X="0.864062" Point_Y="0.838889"/>
 <SwitchOperation Description="自行车按着" EnableSwitch="Bicycle1" DisableSwitch="XBtn|MapOpenFlag|InSetUp|Moto|Moto2" Point_X="0.864062" Point_Y="0.838889"/>
 <SwitchOperation Description="上飞（翼龙）" EnableSwitch="Fly2" DisableSwitch="XBtn|MapOpenFlag|InSetUp|Moto|Moto2" Point_X="0.737805" Point_Y="0.810174"/>
@@ -569,7 +569,7 @@
 <SwitchOperation Description="吼叫（霸王龙）" EnableSwitch="Bellow" DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.863240" Point_Y="0.722772"/>
 <SwitchOperation Description="停止（霸王龙）" EnableSwitch="Stop" DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.863240" Point_Y="0.722772"/>
 </KeyMapping>
-<KeyMapping ItemName="F" Point_X="0.518315" Point_Y="0.042969" Description="Shuja Plays PUBG 3.5" MiniVisiable="false" MiniDisable="false" NoDelete="1" SpecialFunc="1002" OpGuidClass="0" AsciiCode="70">
+<KeyMapping ItemName="F" Point_X="0.518315" Point_Y="0.042969" Description="Zorito PUBGM 3.9 iPad View" MiniVisiable="false" MiniDisable="false" NoDelete="1" SpecialFunc="1002" OpGuidClass="0" AsciiCode="70">
 <SwitchOperation Description="救人" EnableSwitch="Help" DisableSwitch="XBtn|MapOpenFlag" Point_X="0.500781" Point_Y="0.712500" TexturePosition="Help"/>
 <SwitchOperation Description="取消丢雷" EnableSwitch="CancelFireTheHole" DisableSwitch="XBtn|MapOpenFlag" Point_X="0.188281" Point_Y="0.663889" TexturePosition="CancelFireTheHole"/>
 <SwitchOperation Description="下车" EnableSwitch="GetOutCar" DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.870000" Point_Y="0.452222" HideTips="1" TexturePosition="GetOutCar"/>
@@ -893,7 +893,7 @@
 <SwitchOperation Description="吼叫（霸王龙）" EnableSwitch="Bellow" DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.863240" Point_Y="0.722772"/>
 <SwitchOperation Description="停止（霸王龙）" EnableSwitch="Stop" DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.863240" Point_Y="0.722772"/>
 </KeyMapping>
-<KeyMapping ItemName="F" Point_X="0.516484" Point_Y="0.042969" Description="Shuja Plays PUBG 3.5" MiniVisiable="false" MiniDisable="false" NoDelete="1" SpecialFunc="1002" OpGuidClass="0" AsciiCode="70">
+<KeyMapping ItemName="F" Point_X="0.516484" Point_Y="0.042969" Description="Zorito PUBGM 3.9 iPad View" MiniVisiable="false" MiniDisable="false" NoDelete="1" SpecialFunc="1002" OpGuidClass="0" AsciiCode="70">
 <SwitchOperation Description="救人" EnableSwitch="Help" DisableSwitch="XBtn|MapOpenFlag" Point_X="0.500781" Point_Y="0.720833" TexturePosition="Help"/>
 <SwitchOperation Description="取消丢雷" EnableSwitch="CancelFireTheHole" DisableSwitch="XBtn|MapOpenFlag" Point_X="0.188281" Point_Y="0.663889" TexturePosition="CancelFireTheHole"/>
 <SwitchOperation Description="下车" EnableSwitch="GetOutCar" DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.870000" Point_Y="0.452222" HideTips="1" TexturePosition="GetOutCar"/>
@@ -954,7 +954,7 @@
 <SwitchOperation Description="Pickup" EnableSwitch="Pickup" DisableSwitch="MapOpenFlag|InSetUp" Point_X="0.760453" Point_Y="0.311881"/>
 <SwitchOperation Description="救回" EnableSwitch="Help2" DisableSwitch="MapOpenFlag|InSetUp" Point_X="0.664714" Point_Y="0.674479" TexturePosition="Help2"/>
 </KeyMapping>
-<KeyMapping ItemName="J" Point_X="0.038104" Point_Y="0.459057" Description="Auto Jump" MiniVisiable="false" MiniDisable="false" NoDelete="1" SpecialFunc="0" OpGuidClass="0" AsciiCode="74">
+<KeyMapping ItemName="J" Point_X="0.086996" Point_Y="0.444010" Description="Auto Jump" MiniVisiable="false" MiniDisable="false" NoDelete="1" SpecialFunc="0" OpGuidClass="0" AsciiCode="74">
 <SwitchOperation Description="Auto Jump when Jump Button" EnableSwitch="SetUp" DisableSwitch="XBtn|InSetUp|Jump|Climb|GetOutCar"/>
 </KeyMapping>
 <KeyMapping ItemName="M" Point_X="0.974609" Point_Y="0.013889" Description="Map" MiniVisiable="false" MiniDisable="false" AsciiCode="77">
@@ -1035,8 +1035,8 @@
 <DriveKey AsciiCode="68" Point_X="0.877178" Point_Y="0.820099"/>
 <DriveKey AsciiCode="87" Point_X="0.121951" Point_Y="0.729529"/>
 <DriveKey AsciiCode="83" Point_X="0.122822" Point_Y="0.869727"/>
-<SwitchOperation Description="第一种开车模式" EnableSwitch="DriveMode1"/>
-<SwitchOperation Description="第一种开车模式_按着" EnableSwitch="DriveMode1Press"/>
+<SwitchOperation Description="第一种开车模式" EnableSwitch="DriveMode1" DisableSwitch="Jump"/>
+<SwitchOperation Description="第一种开车模式_按着" EnableSwitch="DriveMode1Press" DisableSwitch="Jump"/>
 </KeyMappingEx>
 <KeyMappingEx ItemName="B" Point_X="0.437500" Point_Y="0.910670" Description="Single/Burst/Auto" MiniVisiable="false" MiniDisable="false" HideTipsAlways="1" Type="MultiPoint" AsciiCode="66">
 <Point Point_X="0.514652" Point_Y="0.912760" Delay="0" IsMutex="0" MutexVal="0" IsRepeat="0"/>
