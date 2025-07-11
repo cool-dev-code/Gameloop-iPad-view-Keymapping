@@ -19,14 +19,13 @@
 
 ## ✨ Version Update:
 
-> 🆕 Last Update Date: 9-Jan-25
-- 🔫 PUBG Mobile `3.6`
-- 🌍 Gameloop `4.1.137.90` (32 bit version)
-- 🌍 Gameloop `5.1.147.90` (64 bit version)
+> 🆕 Last Update Date: 11-Jul-25
+- 🔫 PUBG Mobile `3.9`
+- 🌍 Gameloop `4.1.139.90` (32 bit version)
+- 🌍 Gameloop `5.1.149.90` (64 bit version)
 
 ## 📜 Change logs:
-- Ported to PUBG Mobile 3.6
-- Hotfix for Shift button
+- Ported to PUBG Mobile 3.9
 
 ## ❌ Not yet working:
 - Zoom Scope with scroll (middle mouse button)
