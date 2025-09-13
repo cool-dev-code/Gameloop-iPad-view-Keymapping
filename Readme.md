@@ -19,10 +19,10 @@
 
 ## ✨ Version Update:
 
-> 🆕 Last Update Date: 11-Jul-25
-- 🔫 PUBG Mobile `3.9`
-- 🌍 Gameloop `4.1.139.90` (32 bit version)
-- 🌍 Gameloop `5.1.149.90` (64 bit version)
+> 🆕 Last Update Date: 13-Sep-2025
+- 🔫 PUBG Mobile `4.0`
+- 🌍 Gameloop `4.1.140.90` (32 bit version)
+- 🌍 Gameloop `5.1.150.90` (64 bit version)
 
 ## 📜 Change logs:
 - Ported to PUBG Mobile 3.9
