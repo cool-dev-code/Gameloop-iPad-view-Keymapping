@@ -25,7 +25,7 @@
 - 🌍 Gameloop `5.1.150.90` (64 bit version)
 
 ## 📜 Change logs:
-- Ported to PUBG Mobile 3.9
+- Ported to PUBG Mobile 4.0
 
 ## ❌ Not yet working:
 - Zoom Scope with scroll (middle mouse button)
