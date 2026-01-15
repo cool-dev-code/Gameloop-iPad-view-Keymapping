@@ -86,7 +86,7 @@ body:
       label: Conditions
       description: Tell us Conditions where this Keymapping is applicable?
       placeholder: Conditions Detail!
-      value: "In `.....` (Match / Cheerpark / Training Ground) \nWhile `.....` (Driving / Walking / Item Pickup) \nPress `.....` Button \n`.....` not working"
+      value: "In ..... (Match / Cheerpark / Training Ground) \nWhile ..... (Driving / Walking / Item Pickup) \nPress ..... Button \n..... not working"
     validations:
       required: true
   - type: textarea
