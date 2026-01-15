@@ -66,5 +66,6 @@ C:\Users\%USERPROFILE%\AppData\Roaming\AndroidTbox
 - 🚫 If I am not available, Ask me on Discord 👇
 
 ## 💬 Contact Me
-Join me on my **Discord Server** ❤️
-> https://discord.gg/9mjwNGJHWH
+Join me on
+
+> My **[Discord Server](https://discord.gg/9mjwNGJHWH)** ❤️
